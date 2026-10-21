@@ -1,0 +1,35 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Datasets and medical imaging
+data/
+datasets/
+*.h5
+*.hdf5
+*.nii
+*.nii.gz
+
+# Model checkpoints
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Generated outputs
+outputs/
+logs/
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
