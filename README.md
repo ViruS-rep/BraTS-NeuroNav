@@ -45,7 +45,7 @@ Evaluation uses full volumes and the BraTS convention for empty regions (see [Ev
 ## Project structure
 
 ```
-BraTS-NeuroNav/
+BraTS-NeuroNav/src/
 ├── config.py            # all paths and hyperparameters
 ├── preprocess_cache.py  # HDF5 slices -> normalized float16 volumes (one-time)
 ├── verify_cache.py      # sanity checks on the cache
