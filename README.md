@@ -239,4 +239,4 @@ Everything lives in `config.py`. Common changes:
 
 ## License
 
-Add your license here (for example MIT). The BraTS dataset is subject to its own terms of use and is not covered by this repository's license.
+IIT(BHU) Varanasi. The BraTS dataset is subject to its own terms of use and is not covered by this repository's license.
