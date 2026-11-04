@@ -240,3 +240,16 @@ Everything lives in `config.py`. Common changes:
 ## License
 
 IIT(BHU) Varanasi. The BraTS dataset is subject to its own terms of use and is not covered by this repository's license.
+
+## 🚀 Live Demo
+
+**[BraTS-NeuroNav Studio – Launch 3D Viewer](https://neuronav-studio.vercel.app/)**
+
+Explore exported BraTS tumor segmentation meshes interactively in your browser.
+
+- Feed your MRI image to the trained model and it will generate nifti files as well as .obj (mesh) files for the same. Drag and drop these meshes into this site.
+- Import whole tumor and individual tumor regions (`.obj`)
+- Interactive 3D visualization
+- Mesh statistics and geometric measurements
+- MRI volume coordinate inspection
+- Browser-side processing — meshes remain local
